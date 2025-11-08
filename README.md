@@ -29,3 +29,18 @@ Screen name:john
 Born in:July 15, 2015
 
 Creation time of the ID:It has been confirmed as June 15, 2025
+
+# Development of the project
+If that's what you're asking
+
+You've come to the right place
+
+## Item 1
+Is a file viewer
+
+But it's not finished, so it's not open for the time being
+
+## Item 2
+It's a shell
+
+Stay tuned!
